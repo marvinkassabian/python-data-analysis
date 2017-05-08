@@ -1,0 +1,8 @@
+.DS_Store
+npm-debug.log
+node_modules
+
+.idea
+
+# Ignore checkpoints created (especially for the examples)
+.ipynb_checkpoints
